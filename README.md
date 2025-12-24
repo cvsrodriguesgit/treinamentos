@@ -3,7 +3,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/cvsrodriguesgit/treinamentos)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cvsrodriguesgit/treinamentos)
-![GitHub license](https://img.shields.io/github/license/cvsrodriguesgit/treinamentos)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![GitHub issues](https://img.shields.io/github/issues/cvsrodriguesgit/treinamentos)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/cvsrodriguesgit/treinamentos)
