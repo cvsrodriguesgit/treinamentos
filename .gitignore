@@ -1,0 +1,80 @@
+# =========================
+# Visual Studio Community 18.1.1
+# Canal: Stable - Dezembro 2025
+# =========================
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# Arquivos de usuário
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Cache e temporários
+*.cache
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.tmp
+
+# Configurações locais
+.vs/
+.vscode/
+*.dbmdl
+*.jfm
+
+# Pacotes NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Arquivos de backup
+*.bak
+*.backup
+*.old
+
+# Testes e resultados
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Publicações
+publish/
+*.publish.xml
+
+# Arquivos gerados por IDE
+*.psess
+*.vsp
+*.vspx
+*.vspscc
+*.vssscc
+
+# Arquivos de configuração locais
+appsettings.Development.json
+secrets.json
+
+# Arquivos de sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs gerais
+*.log
+*.svclog
+
+# Arquivos de pacotes
+node_modules/
+bower_components/
+
+# Arquivos de container/dockers locais
+docker-compose.override.yml
