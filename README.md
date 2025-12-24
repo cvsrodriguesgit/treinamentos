@@ -62,6 +62,3 @@ Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Esse modelo já está pronto para colar no seu `README.md`. Ele inclui os **badges funcionais**, explica a estrutura, mostra como clonar e usar, lista as tecnologias e reforça a licença.  
-
-Se quiser, eu posso montar também um **modelo de README.md específico para cada projeto dentro do repositório** (exemplo: calculadora em Python, jogo da velha em JavaScript). Assim cada projeto teria sua própria documentação.
