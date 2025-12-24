@@ -1,21 +1,26 @@
-﻿# Repositório de Treinamentos
+﻿# 📚 Repositório de Treinamentos
 
-Este repositório reúne meus estudos, exercícios e projetos de programação.
+![GitHub repo size](https://img.shields.io/github/repo-size/cvsrodriguesgit/treinamentos)
+![GitHub last commit](https://img.shields.io/github/last-commit/cvsrodriguesgit/treinamentos)
+![GitHub license](https://img.shields.io/github/license/cvsrodriguesgit/treinamentos)
+![GitHub issues](https://img.shields.io/github/issues/cvsrodriguesgit/treinamentos)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/cvsrodriguesgit/treinamentos)
+
+Este repositório reúne meus estudos, exercícios e projetos de programação.  
+Organizo aqui **fundamentos**, **linguagens**, **cursos** e **projetos pessoais** para acompanhar minha evolução.
+
+---
 
 ## 📂 Estrutura
-- **fundamentos/** → lógica e algoritmos básicos
-- **linguagens/** → práticas separadas por linguagem (Python, JS, Java, etc.)
-- **cursos/** → material e exercícios de cursos que estou fazendo
-- **projetos-pessoais/** → pequenos projetos para aplicar o aprendizado
+- **fundamentos/** → lógica e algoritmos básicos  
+- **linguagens/** → práticas separadas por linguagem (Python, JS, Java, etc.)  
+- **cursos/** → material e exercícios de cursos que estou fazendo  
+- **projetos-pessoais/** → pequenos projetos para aplicar o aprendizado  
 
-## 🚀 Objetivo
-Organizar meu aprendizado de forma clara e acessível, servindo como portfólio e registro de evolução.
+---
 
-## 📌 Tecnologias
-- Python
-- JavaScript
-- Java
-- (adicione outras conforme for aprendendo)
-
-## 📄 Licença
-Este repositório é de uso pessoal e pode conter materiais de estudo.
+## 🚀 Como usar
+Clone o repositório:
+```bash
+git clone https://github.com/cvsrodriguesgit/treinamentos.git
+cd treinamentos
